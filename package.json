@@ -43,7 +43,7 @@
     "eslint-plugin-jest": "^24.1.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^3.1.4",
-    "eslint-plugin-unicorn": "^24.0.0",
+    "eslint-plugin-unicorn": "^30.0.0",
     "execa": "^5.0.0",
     "fixturify-project": "^2.1.0",
     "jest": "^26.5.2",
