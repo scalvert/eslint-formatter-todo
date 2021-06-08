@@ -26,7 +26,7 @@
     "chalk": "^4.1.0",
     "eslint": "^7.10.0",
     "fs-extra": "^9.0.1",
-    "has-flag": "^4.0.0",
+    "has-flag": "^5.0.0",
     "strip-ansi": "^6.0.0",
     "text-table": "^0.2.0",
     "type-fest": "^0.20.2"
