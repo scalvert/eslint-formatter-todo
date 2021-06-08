@@ -45,7 +45,7 @@
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-unicorn": "^24.0.0",
     "execa": "^5.0.0",
-    "fixturify-project": "^2.1.0",
+    "fixturify-project": "^3.0.2",
     "jest": "^26.5.2",
     "prettier": "^2.1.2",
     "release-it": "^14.2.0",
