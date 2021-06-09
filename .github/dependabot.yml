@@ -1,0 +1,45 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "13:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: eslint
+    versions:
+    - 7.18.0
+    - 7.19.0
+    - 7.20.0
+    - 7.21.0
+    - 7.22.0
+    - 7.23.0
+    - 7.24.0
+  - dependency-name: eslint-config-prettier
+    versions:
+    - 8.0.0
+    - 8.1.0
+    - 8.2.0
+  - dependency-name: type-fest
+    versions:
+    - 0.21.0
+    - 0.21.1
+    - 0.21.2
+    - 0.21.3
+    - 1.0.0
+    - 1.0.1
+  - dependency-name: ts-jest
+    versions:
+    - 26.5.3
+    - 26.5.4
+  - dependency-name: eslint-plugin-jest
+    versions:
+    - 24.3.1
+  - dependency-name: "@ember-template-lint/todo-utils"
+    versions:
+    - 7.0.0
+    - 8.0.0-beta.3
+  - dependency-name: eslint-plugin-unicorn
+    versions:
+    - 25.0.1
