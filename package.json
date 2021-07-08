@@ -29,7 +29,7 @@
     "has-flag": "^4.0.0",
     "strip-ansi": "^6.0.0",
     "text-table": "^0.2.0",
-    "type-fest": "^0.20.2"
+    "type-fest": "^1.2.2"
   },
   "devDependencies": {
     "@types/eslint": "^7.2.4",
